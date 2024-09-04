@@ -1,2 +1,4 @@
 # project-amazon
-first frontend project without javascript
+First frontend project without javascript
+<br>
+Author- Himanshi
